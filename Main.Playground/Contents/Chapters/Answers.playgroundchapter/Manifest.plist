@@ -10,11 +10,7 @@
 	<string>Answers</string>
 	<key>InitialUserPages</key>
 	<array>
-		<string>Text.playgroundpage</string>
-		<string>API Overview.playgroundpage</string>
-		<string>Quiz.playgroundpage</string>
-		<string>ChooseYourOwnAdventure.playgroundpage</string>
-		<string>CrystalBall.playgroundpage</string>
+		<string>Home.playgroundpage</string>
 	</array>
 </dict>
 </plist>
